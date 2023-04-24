@@ -1,5 +1,7 @@
 
 # Electron Game Hacking (Vampire Survivor)
+![Sprite-0002](https://user-images.githubusercontent.com/130214281/234120983-1bab1900-3944-4c74-ad6a-7f10b0d1149e.png)
+
 
 
 This project is for me to write down what I find while I reverse engineer "Vampre Survivor." Vampire Survivor was made with electron and you can usually tell because of the .pak files and the large .exe file displayed below:

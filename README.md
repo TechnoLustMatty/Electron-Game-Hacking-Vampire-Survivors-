@@ -4,7 +4,7 @@
 ![MOSHED-2023-4-25-1-47-54](https://user-images.githubusercontent.com/130214281/234185797-209c0e48-b7b3-4443-abe5-22523ac2507f.gif)
 
 
-This project is for me to write down what I find while I reverse engineer "Vampre Survivor." Vampire Survivor was made with electron and you can usually tell because of the .pak files and the large .exe file displayed below:
+Hello! My name is Techno and I am excited to share with you my outline for the reverse engineering process of Vampire Survivors, a game made with Electron. Electron is a popular framework that enables developers to create desktop applications using web technologies such as HTML, CSS, and JavaScript. This means that Vampire Survivors was likely created using these languages, which can make it easier to understand and modify the game's code. Additionally, Vampire Survivors has a built-in debugger that we can leverage for much of our work. In this outline, I will also be discussing how we can find the information we need through the JavaScript files. Ultimately, the goal of this process is to not only reverse engineer the game, but also create a mod menu/cheats that will allow us to customize and enhance our gameplay experience. Vampire Survivor was made with electron and you can usually tell because of the .pak files and the large .exe file displayed below:
 
 
 ![Capture](https://user-images.githubusercontent.com/130214281/234105681-76cea2f8-ad7d-42ab-942c-642b9fa33e66.PNG)
